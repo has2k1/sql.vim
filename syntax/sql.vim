@@ -47,7 +47,7 @@ syn keyword sqlKeyword      maxextents mode modify nocompress nowait object of
 syn keyword sqlKeyword      off offline on online option order outer pctfree
 syn keyword sqlKeyword      primary privileges procedure public references
 syn keyword sqlKeyword      referencing release resource return role row
-syn keyword sqlKeyword      rowlabel rownum rows schema session share size
+syn keyword sqlKeyword      rowlabel rownum rows schema session set share size
 syn keyword sqlKeyword      start successful synonym then to transaction trigger
 syn keyword sqlKeyword      uid user using validate values view virtual whenever
 syn keyword sqlKeyword      where with
